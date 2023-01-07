@@ -1,1 +1,0 @@
-echo THIS is LAST
